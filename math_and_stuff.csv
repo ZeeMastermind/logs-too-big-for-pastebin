@@ -1,0 +1,34 @@
+﻿Standard Rate of Piracy,0.25
+Early PDF Release Piracy Rate,0.50
+PDF Sales Rate,0.50
+Book Base Production Cost,7000.00
+DTRPG Percentage,0.35
+Shipping/Printing Cost per Unit,15.00
+Physical book price,40.00
+Digital book price,20.00
+Ship/print percentage,0.375
+PDF Sales,375.00
+Book Sales,375.00
+PDF Sales (W/O standard piracy),500.00
+Book Sales (W/O standard piracy),500.00
+PDF Gross,7500.00
+Book Gross,15000.00
+PDF Gross (W/O standard piracy),10000.00
+Book Gross (W/O standard piracy),20000.00
+Total Gross,22500.00
+Total Gross w/o standard piracy,30000.00
+"Total Gross, with early release piracy",15000.00
+PDF cost,2625
+Book cost,5625.00
+Book cost w/o piracy,7500.00
+PDF cost w/o piracy,3500.00
+Total cost,8250.00
+Total cost w/o piracy,11000.00
+PDF Sales w/ adjusted piracy,250.00
+PDF Gross w/ adjusted piracy,5000.00
+PDF Costs w/ adjusted piracy,1750.00
+Net profit (Standard rate of piracy),7250
+Net profit (No piracy),12000
+Net profit (Adjusted piracy; 0 book sales),-3750
+Net Profit (Adjusted piracy; book sales unaffected),2500
+Net profit (No release!),-7000
